@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on some simple Projects to help me practice Programming
 - 📫 How to reach me?
   You can keep in touch with me on all messengers above:
-  Telegram: @amir_h_fro
-  Instagram: @amir_h_fro
+  <br/>Telegram: @amir_h_fro
+  <br/>Instagram: @amir_h_fro
 
 <!---
 amirhfro/amirhfro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
