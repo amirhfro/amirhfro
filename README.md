@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Android Programming - a little bit Python & All Web Programing components
 - 💞️ I’m looking to collaborate on some simple Projects to help me practice Programming
 - 📫 How to reach me?
-  You can keep in touch with me on all messengers above:
+  You can keep in touch with me on all messengers below:
   <br/>Telegram: @amir_h_fro
   <br/>Instagram: @amir_h_fro
 
