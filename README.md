@@ -16,6 +16,23 @@
   <br>Instagram: @amir_h_fro
   <br>My Personal Website: https://amirhfro.ir
 
+<ul>
+<li>Works</li> 
+
+<br>
+
+![amirhfro's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirhfro&show_icons=true&theme=highcontrast)
+
+<li>Technologies</li> 
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhfro&layout=compact)](https://github.com/amirhfro/github-readme-stats)
+
+
+
+<br>
+</ul>
 <!---
 amirhfro/amirhfro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
