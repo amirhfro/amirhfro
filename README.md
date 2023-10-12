@@ -32,8 +32,7 @@
 
 <br>
 <li>Learning roadmap </li>
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6527dad8f43a58c923be6985?variant=dark)](https://roadmap.sh)
-<br>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6527dad8f43a58c923be6985?variant=dark" alt="roadmap.sh"/></a><br>
 
 <br>
 </ul>
