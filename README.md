@@ -30,7 +30,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhfro&layout=compact)](https://github.com/amirhfro/github-readme-stats)
 
-
+<br>
+## Learning roadmap
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6527dad8f43a58c923be6985?variant=dark)](https://roadmap.sh)
+<br>
 
 <br>
 </ul>
